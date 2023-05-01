@@ -21,3 +21,4 @@ https://github.com/hamburgers15/Election-Analysis/blob/main/election_analysis.tx
 
 ## Summary
 
+The script used in this project can be used to look at any election results, although a few modifications might be necessary.  The dictionaries and lists in this script would first need to be modified to contain the data from the new election.  It is also likely that the colunm names in the new csv will not match the colunm names used for this script.  They would have to ba changed to match.  This would allow for use of the script without too meny alterations.  
